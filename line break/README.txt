@@ -1,10 +1,7 @@
-Input:
+﻿Input:
 Number of characters in a string
-
 Number of worlds
-
 world1
-
 world2
 ...
 
