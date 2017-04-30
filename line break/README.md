@@ -1,4 +1,4 @@
-Input:
+Input:\n
 Number of characters in a string
 Number of worlds
 world1
